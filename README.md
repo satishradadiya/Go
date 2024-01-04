@@ -1,2 +1,2 @@
 # Go
-Go Learnig
+Go Learning
