@@ -14,5 +14,6 @@ func main() {
 func division(num1 int, num2 int) (int, int) {
 	var divisionResult int = num1 / num2
 	var remain int = num1 % num2
+	//  return devision, remain value
 	return divisionResult, remain
 }
